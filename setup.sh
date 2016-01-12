@@ -15,3 +15,4 @@ brew install caskroom/cask/brew-cask
 brew cask install google-chrome
 brew cask install firefox
 brew cask install spotify
+brew cask install iterm2
