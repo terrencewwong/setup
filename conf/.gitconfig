@@ -1,0 +1,15 @@
+[user]
+	name = Terrence Wong
+	email = wongterrencew@gmail.com
+[credential]
+	helper = osxkeychain
+[alias]
+	co = checkout
+	pr = pull-request
+	cherry = cherry-pick
+[diff]
+	mnemonicprefix = true
+[github]
+	user = wongterrencew
+[ghi]
+	token = !security find-internet-password -a wongterrencew -s github.com -l 'ghi token' -w
