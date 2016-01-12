@@ -9,6 +9,7 @@ brew install node
 brew install nodenv
 brew install hub
 brew install ghi
+brew install tmux
 
 # Apps
 brew install caskroom/cask/brew-cask
