@@ -7,6 +7,8 @@ brew install git
 brew install wget
 brew install node
 brew install nodenv
+brew install hub
+brew install ghi
 
 # Apps
 brew install caskroom/cask/brew-cask
