@@ -10,6 +10,8 @@ brew install nodenv
 brew install hub
 brew install ghi
 brew install tmux
+brew install docker
+brew install docker-compose
 
 # Apps
 brew install caskroom/cask/brew-cask
