@@ -19,4 +19,4 @@ brew cask update
 brew cask install google-chrome
 brew cask install firefox
 brew cask install spotify
-brew cask install hyper
+brew cask install iterm2
